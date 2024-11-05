@@ -1,0 +1,362 @@
+filename,start_time,end_time,duration,low_freq,high_freq,call-type,Final_Category,Distress,Age,Sex,Age_Sex
+opp_578_ru.wav,2.392645045,6.613463765,4.22081872,0.219726563,1417.993164,rumble,Nursing,Not Applicable,Juvenile,Male,Juvenile Male
+opp_595_ru.wav,1.807122477,10.03840625,8.231283773,1.025390625,1397.607422,rumble,Logistics,Not Applicable,Adult,Female,Adult Female
+opp_560_ru.wav,2.29911017,6.934491483,4.635381313,1.147460938,546.8505859,rumble,Separation,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_420_ru.wav,1.832432252,6.438645623,4.606213371,0.708007813,486.1083984,rumble,Sexual,Not Applicable,Adult,Female,Adult Female
+opp_582_ru5.wav,0.982550016,5.686104753,4.703554737,1.391601563,481.1035156,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_395_ru.wav,2.126875994,4.243700543,2.116824549,27.19726563,475.2685547,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_602_ru1.wav,1.548785383,6.536851649,4.988066266,11.03515625,463.8916016,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_345_ru.wav,2.046123338,3.526673605,1.480550267,12.93945313,448.7304688,rumble,Nursing,Not Applicable,Unknown,Unknown,Unknown
+opp_340_ru1.wav,0.89431231,2.912032575,2.017720265,0.366210938,435.6201172,rumble,Separation,Distress,Infant,Unknown,Unknown
+opp_452_ru2.wav,3.050945917,6.640130874,3.589184957,2.880859375,431.1279297,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_601_ru2.wav,1.542938956,2.739243568,1.196304612,0.659179688,430.4931641,rumble,Competition,No distress,Juvenile,Female,Juvenile Female
+opp_664_ru.wav,1.301519604,2.441664445,1.140144841,10.27832031,428.6132813,rumble,Competition,No distress,Juvenile,Female,Juvenile Female
+opp_852_ru1b.wav,1.139493292,3.606381474,2.466888182,0.48828125,416.4794922,rumble,Separation,Distress,Infant,Male,Infant Male
+opp_836_ru.wav,1.563052649,2.793906479,1.23085383,25.1953125,413.0859375,rumble,Nursing,Not Applicable,Juvenile,Male,Juvenile Male
+opp_831_ru2.wav,1.466869759,4.311577697,2.844707938,4.077148438,412.4023438,rumble,Separation,Unknown,Juvenile,Female,Juvenile Female
+opp_622_ru.wav,3.083563859,4.556094542,1.472530683,0.68359375,411.8896484,rumble,Competition,No distress,Juvenile,Male,Juvenile Male
+opp_864_ru1.wav,3.233824312,12.29815582,9.064331508,0.073242188,410.4980469,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_499_ru1.wav,1.706289859,4.751316413,3.045026554,0.390625,406.0302734,rumble,Competition,Unknown,Juvenile,Male,Juvenile Male
+opp_674_ru.wav,2.752091459,4.672311437,1.920219978,0.122070313,401.2939453,rumble,Unknown,No distress,Juvenile,Male,Juvenile Male
+opp_530_ru2.wav,0.020102889,4.792451157,4.772348268,2.075195313,400.1708984,rumble,Separation,No distress,Juvenile,Male,Juvenile Male
+opp_381_ru.wav,1.380790056,2.804147705,1.423357649,0.463867188,393.1152344,rumble,Nursing,Not Applicable,Juvenile,Female,Juvenile Female
+opp_432_ru1.wav,3.538957112,5.277649288,1.738692176,4.711914063,392.2607422,rumble,Separation,Distress,Juvenile,Male,Juvenile Male
+opp_368_ru1.wav,1.165938932,4.328468762,3.16252983,7.8125,392.1386719,rumble,Affiliation,Not Applicable,Juvenile,Unknown,Unknown
+opp_755_ru1.wav,0.136182469,2.089714624,1.953532155,0.244140625,391.1865234,rumble,Competition,Unknown,Juvenile,Male,Juvenile Male
+opp_572_ru.wav,0.011545589,4.906134294,4.894588705,5.322265625,389.2333984,rumble,Separation,Distress,Infant,Female,Infant Female
+opp_498_ru2.wav,1.031628323,2.361196369,1.329568046,0.78125,388.0615234,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_445_ru1.wav,0.724219847,2.321548606,1.597328759,11.25488281,386.8164063,rumble,Competition,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_755_ru.wav,0.695866924,1.773715017,1.077848093,9.5703125,384.3505859,rumble,Competition,Unknown,Juvenile,Male,Juvenile Male
+opp_493_ru.wav,2.286542481,5.906495436,3.619952955,19.140625,384.1552734,rumble,Separation,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_705_ru.wav,2.082155842,7.381798124,5.299642282,11.05957031,381.0058594,rumble,Separation,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_800_ru.wav,1.416151599,4.950443986,3.534292387,10.76660156,380.859375,rumble,Competition,Distress,Sub-Adult,Male,Sub-Adult Male
+opp_591_ru2.wav,2.994910228,4.696090383,1.701180155,1.171875,374.8535156,rumble,Competition,No distress,Unknown,Unknown,Unknown
+opp_581_ru2.wav,0.880134654,2.346105669,1.465971015,0.48828125,374.7070313,rumble,Competition,No distress,Unknown,Male,Unknown
+opp_650_ru1.wav,1.097348389,2.173180143,1.075831754,14.57519531,373.7792969,rumble,Competition,No distress,Juvenile,Female,Juvenile Female
+opp_814_ru.wav,2.81294589,6.302867576,3.489921686,0.244140625,371.8017578,rumble,Separation,No distress,Juvenile,Male,Juvenile Male
+opp_818_ru.wav,4.471123919,6.845721529,2.37459761,27.49023438,371.2402344,rumble,Competition,No distress,Juvenile,Male,Juvenile Male
+opp_412_ru.wav,2.380139446,3.753084646,1.3729452,0.390625,371.1914063,rumble,Competition,Unknown,Juvenile,Male,Juvenile Male
+opp_428_ru.wav,2.630687646,3.807739128,1.177051482,8.203125,370.9228516,rumble,Affiliation,Not Applicable,Sub-Adult,Male,Sub-Adult Male
+opp_408_ru.wav,1.654064456,3.141213794,1.487149338,2.63671875,370.4833984,rumble,Competition,Unknown,Sub-Adult,Male,Sub-Adult Male
+opp_494_ru.wav,2.298829172,5.677957806,3.379128634,3.637695313,369.7998047,rumble,Separation,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_432_rub.wav,2.86111027,5.101608506,2.240498236,1.733398438,369.6044922,rumble,Separation,Distress,Juvenile,Male,Juvenile Male
+opp_506_ru.wav,1.689717353,6.095452567,4.405735214,0.439453125,368.5058594,rumble,Separation,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_457_ru1.wav,1.281927366,4.152499623,2.870572257,0.610351563,368.359375,rumble,Competition,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_403_ru1.wav,0.367066789,2.663482405,2.296415616,4.321289063,367.7001953,rumble,Nursing,Not Applicable,Juvenile,Female,Juvenile Female
+opp_865_ru2.wav,1.456559421,4.045254205,2.588694784,1.831054688,366.6748047,rumble,Affiliation,Not Applicable,Unknown,Unknown,Unknown
+opp_598_ru.wav,1.434420846,1.967426027,0.533005181,0.927734375,366.40625,rumble,Competition,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_694_ru.wav,1.972392868,4.122325521,2.149932653,3.051757813,365.9912109,rumble,Competition,Distress,Sub-Adult,Male,Sub-Adult Male
+opp_584_ru.wav,2.489313085,4.862979232,2.373666147,0.366210938,364.3310547,rumble,Separation,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_570_ru.wav,1.646567863,4.17949691,2.532929047,4.858398438,361.1328125,rumble,Competition,Unknown,Unknown,Unknown,Unknown
+opp_627_ru1.wav,1.647882503,6.435560278,4.787677775,3.686523438,360.8642578,rumble,Sexual,Not Applicable,Adult,Male,Adult Male
+opp_570_ru1.wav,0.97598597,2.711858615,1.735872645,9.423828125,359.6923828,rumble,Competition,Unknown,Unknown,Unknown,Unknown
+opp_852_ru2b.wav,1.373392966,4.354712609,2.981319643,4.907226563,359.4238281,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_350_ru1.wav,4.09952539,8.02353082,3.92400543,0.439453125,357.0800781,rumble,Separation,Unknown,Sub-Adult,Male,Sub-Adult Male
+opp_339_ru.wav,1.882404671,6.236741157,4.354336486,6.909179688,356.7382813,rumble,Separation,No distress,Adult,Female,Adult Female
+opp_553_ru.wav,3.622155514,11.5864032,7.964247686,9.057617188,356.3964844,rumble,Logistics,Not Applicable,Adult,Female,Adult Female
+opp_750_ru1.wav,3.148950599,5.615293616,2.466343017,8.349609375,354.5410156,rumble,Separation,Unknown,Juvenile,Male,Juvenile Male
+opp_852_ru1.wav,1.238373096,3.451190654,2.212817558,6.591796875,354.1748047,rumble,Separation,Distress,Infant,Male,Infant Male
+opp_645_ru1.wav,0.951196068,2.270239829,1.319043761,0.903320313,353.6376953,rumble,Nursing,Not Applicable,Juvenile,Unknown,Unknown
+opp_504_ru1.wav,1.54477181,4.521542154,2.976770344,0.78125,352.7587891,rumble,Separation,Unknown,Infant,Unknown,Unknown
+opp_589_ru.wav,3.483118038,7.580371223,4.097253185,15.35644531,352.6123047,rumble,Separation,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_469_ru.wav,1.698486397,3.882880981,2.184394584,0.610351563,352.2949219,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_403_ru.wav,1.487320882,4.806531299,3.319210417,4.638671875,351.0742188,rumble,Nursing,Not Applicable,Juvenile,Female,Juvenile Female
+opp_466_ru.wav,0.815128227,2.697227223,1.882098996,1.098632813,350.5615234,rumble,Competition,No distress,Juvenile,Male,Juvenile Male
+opp_471_ru3.wav,0.904658683,2.804239249,1.899580566,13.62304688,350.5126953,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_759_ru.wav,1.17179929,3.110839756,1.939040466,2.001953125,350.0488281,rumble,Separation,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_369_ru.wav,2.620787049,4.946958587,2.326171538,0.512695313,349.8779297,rumble,Separation,Unknown,Infant,Unknown,Unknown
+opp_341_ru3.wav,2.151988287,3.088976849,0.936988562,11.40136719,349.8535156,rumble,Competition,Unknown,Sub-Adult,Male,Sub-Adult Male
+opp_848_ru1.wav,1.61417271,5.551358717,3.937186007,1,348.6816406,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_876_ru.wav,1.456360968,3.604871011,2.148510043,3.955078125,347.6318359,rumble,Separation,Distress,Juvenile,Male,Juvenile Male
+opp_504_ru.wav,1.255305804,3.91265561,2.657349806,0.5859375,345.3857422,rumble,Separation,Unknown,Infant,Unknown,Unknown
+opp_508_ru2.wav,2.577665818,7.095888535,4.518222717,2.514648438,345.2636719,rumble,Separation,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_466_ru1.wav,1.863590153,2.764616958,0.901026805,1.513671875,344.9707031,rumble,Competition,No distress,Juvenile,Male,Juvenile Male
+opp_514_ru1.wav,0.026300763,4.204787514,4.178486751,0.317382813,343.6279297,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_876_ru3.wav,2.14545449,3.334282409,1.188827919,10.25390625,343.5302734,rumble,Separation,Distress,Juvenile,Male,Juvenile Male
+opp_341_ru.wav,2.627255572,4.423226734,1.795971162,0.634765625,343.3837891,rumble,Competition,Unknown,Sub-Adult,Male,Sub-Adult Male
+opp_545_ru2.wav,0.0259326,8.20145034,8.17551774,0.268554688,343.3349609,rumble,Logistics,Not Applicable,Adult,Female,Adult Female
+opp_545_ru1.wav,3.25967353,10.39308048,7.13340695,1.684570313,343.3105469,rumble,Logistics,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_866_ru.wav,5.461547937,7.561584758,2.100036821,7.202148438,341.015625,rumble,Competition,No distress,Juvenile,Male,Juvenile Male
+opp_445_ru.wav,1.91725955,3.70588417,1.78862462,0.634765625,340.5273438,rumble,Competition,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_395_ru1.wav,2.051980114,4.262089585,2.210109471,6.274414063,340.1123047,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_581_ru.wav,2.345183073,4.523296201,2.178113128,2.709960938,339.1113281,rumble,Competition,No distress,Unknown,Male,Unknown
+opp_582_ru1.wav,0.974534015,2.498693478,1.524159463,14.37988281,338.6962891,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_381_ru1.wav,1.616575122,2.452811622,0.8362365,7.470703125,337.5,rumble,Nursing,Not Applicable,Juvenile,Female,Juvenile Female
+opp_431_ru.wav,2.843529197,5.225246769,2.381717572,0.634765625,336.4746094,rumble,Separation,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_457_ru2.wav,1.07656808,3.314595046,2.238026966,11.84082031,335.8642578,rumble,Competition,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_559_ru.wav,1.981689255,5.813073597,3.831384342,3.271484375,334.8388672,rumble,Separation,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_616_ru.wav,0.761922914,3.208011284,2.44608837,4.443359375,334.1308594,rumble,Separation,Distress,Juvenile,Unknown,Unknown
+opp_876_ru1.wav,1.055275527,2.543196216,1.487920689,0.610351563,333.9111328,rumble,Separation,Distress,Juvenile,Male,Juvenile Male
+opp_439_ru1.wav,2.603490609,6.765974018,4.162483409,0.634765625,333.3496094,rumble,Separation,No distress,Adult,Female,Adult Female
+opp_340_ru.wav,0.842231386,2.827347144,1.985115758,26.04980469,332.2265625,rumble,Separation,Distress,Infant,Unknown,Unknown
+opp_707_ru.wav,2.956115806,4.399511071,1.443395265,0.341796875,332.0556641,rumble,Competition,Distress,Sub-Adult,Male,Sub-Adult Male
+opp_473_ru.wav,1.055195128,2.885823754,1.830628626,1,332.03125,rumble,Nursing,Not Applicable,Juvenile,Male,Juvenile Male
+opp_351_ru.wav,2.192145907,6.722987657,4.53084175,13.79394531,331.0058594,rumble,Separation,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_852_ru2a.wav,1.040416471,3.017117019,1.976700548,0.390625,330.8349609,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_823_ru.wav,2.260560844,4.790939307,2.530378463,9.838867188,329.7363281,rumble,Competition,No distress,Unknown,Unknown,Unknown
+opp_859_ru.wav,0.71940105,2.254366969,1.534965919,0.146484375,329.5654297,rumble,Nursing,Not Applicable,Infant,Male,Infant Male
+opp_717_ru2.wav,1.441226885,4.173277942,2.732051057,1.416015625,329.4433594,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_416_ru1.wav,0,8.195389757,8.195389757,0.170898438,329.1259766,rumble,Affiliation,Not Applicable,Sub-Adult,Male,Sub-Adult Male
+opp_527_ru.wav,1.897650198,4.141746082,2.244095884,1.831054688,328.7597656,rumble,Nursing,Not Applicable,Juvenile,Unknown,Unknown
+opp_746_ru2.wav,2.499988155,7.195282049,4.695293894,10.83984375,326.5625,rumble,Separation,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_330_ru.wav,1.628424396,3.79023726,2.161812864,1.220703125,326.4648438,rumble,Nursing,Not Applicable,Juvenile,Unknown,Unknown
+opp_789_ru1.wav,0.951114077,3.90278566,2.951671583,0.244140625,325.6347656,rumble,Separation,Unknown,Sub-Adult,Male,Sub-Adult Male
+opp_442_ru.wav,3.432815029,6.801478883,3.368663854,1.07421875,325.1464844,rumble,Separation,Unknown,Juvenile,Male,Juvenile Male
+opp_333_ru2.wav,2.029501081,5.29138475,3.261883669,1.196289063,324.8291016,rumble,Unknown,Not Applicable,Adult,Female,Adult Female
+opp_667_ru1.wav,0.003171375,3.210753202,3.207581827,0.512695313,324.7802734,rumble,Separation,Distress,Juvenile,Unknown,Unknown
+opp_758_ru1.wav,1.216819844,6.863571364,5.64675152,4.19921875,324.7802734,rumble,Separation,No distress,Adult,Female,Adult Female
+opp_688_ru1.wav,2.883182135,4.725440729,1.842258594,19.40917969,323.9013672,rumble,Nursing,Not Applicable,Juvenile,Female,Juvenile Female
+opp_727_ru.wav,1.488083627,2.69880285,1.210719223,8.276367188,323.9013672,rumble,Affiliation,Not Applicable,Infant,Female,Infant Female
+opp_750_ru.wav,2.304732516,4.587148388,2.282415872,0.708007813,323.8037109,rumble,Separation,Unknown,Juvenile,Male,Juvenile Male
+opp_870_ru1.wav,1.91448422,4.616880614,2.702396394,0.561523438,323.5839844,rumble,Separation,No distress,Juvenile,Female,Juvenile Female
+opp_872_ru1.wav,1.444579754,4.401883235,2.957303481,9.716796875,323.3398438,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_763_ru1.wav,1.128522435,4.042605578,2.914083143,2.24609375,322.3632813,rumble,Affiliation,Not Applicable,Sub-Adult,Male,Sub-Adult Male
+opp_457_ru.wav,2.471855396,4.226151312,1.754295916,3.125,322.1923828,rumble,Competition,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_505_ru.wav,1.831755801,3.727531354,1.895775553,12.47558594,320.4589844,rumble,Affiliation,Not Applicable,Sub-Adult,Male,Sub-Adult Male
+opp_600_ru.wav,2.718868425,7.102830133,4.383961708,1.489257813,320.3613281,rumble,Unknown,No distress,Adult,Female,Adult Female
+opp_452_ru1.wav,3.537995908,5.577907045,2.039911137,1.489257813,320.3369141,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_558_ru2.wav,2.992098286,7.814159016,4.82206073,1,320.3125,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_766_ru.wav,0.997391314,2.966466447,1.969075133,0.732421875,318.1884766,rumble,Competition,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_467_ru.wav,1.59683385,6.58382296,4.98698911,11.69433594,318.1640625,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_748_ru1.wav,1.3915132,3.093861394,1.702348194,0.317382813,317.3583984,rumble,Nursing,Not Applicable,Sub-Adult,Male,Sub-Adult Male
+opp_661_ru.wav,0.71632723,1.658251961,0.941924731,0.341796875,317.2607422,rumble,Nursing,Not Applicable,Juvenile,Female,Juvenile Female
+opp_759_ru1.wav,2.093710511,3.944283628,1.850573117,10.66894531,316.9921875,rumble,Separation,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_471_ru2.wav,0.013495858,3.64871822,3.635222362,2.34375,314.5996094,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_807_ru.wav,1.243913052,2.78717241,1.543259358,0.708007813,313.4521484,rumble,Competition,No distress,Juvenile,Male,Juvenile Male
+opp_667_ru2.wav,0.819383394,2.735951992,1.916568598,9.912109375,313.0371094,rumble,Separation,Distress,Juvenile,Unknown,Unknown
+opp_845_ru.wav,3.091813892,6.073766378,2.981952486,0.122070313,312.5976563,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_348_ru.wav,6.41497339,8.600119119,2.185145729,22.58300781,312.3535156,rumble,Nursing,Not Applicable,Unknown,Unknown,Unknown
+opp_838_ru.wav,2.354573019,2.940155048,0.585582029,0.170898438,312.3535156,rumble,Competition,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_511_ru.wav,1.565032313,3.385468598,1.820436285,0.29296875,311.8164063,rumble,Separation,Distress,Juvenile,Unknown,Unknown
+opp_786_ru.wav,2.843263105,9.609699459,6.766436354,0.830078125,311.6699219,rumble,Competition,Unknown,Juvenile,Male,Juvenile Male
+opp_754_ru.wav,1.138915376,3.718182006,2.57926663,2.221679688,311.3769531,rumble,Unknown,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_688_ru.wav,0.750945291,1.691718567,0.940773276,12.67089844,310.6445313,rumble,Nursing,Not Applicable,Juvenile,Female,Juvenile Female
+opp_692_ru.wav,1.494160752,2.828480289,1.334319537,10.66894531,310.4248047,rumble,Competition,Unknown,Sub-Adult,Male,Sub-Adult Male
+opp_608_ru5.wav,2.347024684,6.006616645,3.659591961,0.561523438,310.2294922,rumble,Separation,Distress,Sub-Adult,Female,Sub-Adult Female
+opp_337_ru.wav,2.52814094,4.634469463,2.106328523,0.537109375,309.0576172,rumble,Nursing,Not Applicable,Unknown,Unknown,Unknown
+opp_573_ru.wav,1.897208402,6.043705179,4.146496777,1,308.6181641,rumble,Unknown,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_582_ru3.wav,1.236059839,2.870189367,1.634129528,5.004882813,308.203125,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_845_ru1.wav,1.664645657,4.418259519,2.753613862,13.13476563,307.6904297,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_504_ru3.wav,1.474392593,4.2530682,2.778675607,3.540039063,307.6171875,rumble,Separation,Unknown,Infant,Unknown,Unknown
+opp_667_ru.wav,0.498791104,4.166569417,3.667778313,0.439453125,307.3242188,rumble,Separation,Distress,Juvenile,Unknown,Unknown
+opp_832_ru1.wav,3.411053701,8.975780427,5.564726726,13.50097656,306.9091797,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_872_ru2.wav,0,6.903281616,6.903281616,16.87011719,305.9326172,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_602_ru.wav,2.805141217,10.08862514,7.283483923,10.3515625,305.46875,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_824_ru4.wav,1.260561249,4.022072807,2.761511558,0.341796875,305.3710938,rumble,Separation,Unknown,Juvenile,Female,Juvenile Female
+opp_335_ru.wav,0.462578673,7.733329118,7.270750445,0.341796875,305.1513672,rumble,Sexual,Not Applicable,Adult,Female,Adult Female
+opp_647_ru.wav,2.788195704,6.15676622,3.368570516,15.57617188,304.7363281,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_576_ru.wav,1.666295425,5.566275086,3.899979661,11.54785156,302.734375,rumble,Separation,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_831_ru1.wav,1.580832053,5.971626933,4.39079488,1,302.0263672,rumble,Separation,Unknown,Juvenile,Female,Juvenile Female
+opp_650_ru.wav,0.829711061,2.72067343,1.890962369,0.390625,301.7333984,rumble,Competition,No distress,Juvenile,Female,Juvenile Female
+opp_768_ru.wav,1.97863234,9.056460593,7.077828253,3.515625,301.5625,rumble,Separation,Unknown,Adult,Female,Adult Female
+opp_413_ru1.wav,1.857897359,2.791107574,0.933210215,3.100585938,300.9765625,rumble,Competition,Unknown,Juvenile,Male,Juvenile Male
+opp_758_ru2.wav,2.135060574,6.669016917,4.533956343,3.784179688,300.5859375,rumble,Separation,No distress,Adult,Female,Adult Female
+opp_414_ru.wav,1.986506418,5.229881243,3.243374825,1.416015625,300.5126953,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_333_ru1.wav,1.130585739,4.572474409,3.44188867,0.048828125,299.7314453,rumble,Unknown,Not Applicable,Adult,Female,Adult Female
+opp_762_ru.wav,1.66522176,4.489159242,2.823937482,13.59863281,299.2675781,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_416_ru2.wav,1.946680592,5.224568802,3.27788821,0.610351563,297.6074219,rumble,Affiliation,Not Applicable,Sub-Adult,Male,Sub-Adult Male
+opp_710_ru1.wav,2.768944562,8.644209489,5.875264927,0.268554688,297.3876953,rumble,Separation,No distress,Adult,Female,Adult Female
+opp_504_ru2.wav,1.639718042,3.834018797,2.194300755,3.100585938,296.8994141,rumble,Separation,Unknown,Infant,Unknown,Unknown
+opp_545_ru.wav,2.349329981,6.363230792,4.013900811,2.099609375,296.4599609,rumble,Logistics,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_653_ru.wav,2.020748754,2.726302144,0.70555339,0.09765625,296.4599609,rumble,Competition,No distress,Juvenile,Male,Juvenile Male
+opp_511_ru1.wav,0.904358979,3.590357432,2.685998453,30.37109375,295.8740234,rumble,Separation,Distress,Juvenile,Unknown,Unknown
+opp_560_ru1.wav,1.821116212,7.893245783,6.072129571,0.463867188,295.8496094,rumble,Separation,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_807_ru2.wav,2.014557249,3.291941684,1.277384435,3.588867188,295.703125,rumble,Competition,No distress,Juvenile,Male,Juvenile Male
+opp_417_ru.wav,2.151009173,6.382084713,4.23107554,0.146484375,295.6787109,rumble,Unknown,Not Applicable,Juvenile,Female,Juvenile Female
+opp_708_ru.wav,2.407442709,6.516920564,4.109477855,0.463867188,295.6054688,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_830_ru3.wav,0.773467597,3.248552311,2.475084714,0.610351563,295.2636719,rumble,Separation,No distress,Juvenile,Female,Juvenile Female
+opp_824_ru1.wav,1.94051805,5.306002279,3.365484229,13.35449219,293.2373047,rumble,Separation,Unknown,Juvenile,Female,Juvenile Female
+opp_473_ru1.wav,1.368346547,2.993617478,1.625270931,15.60058594,293.1884766,rumble,Nursing,Not Applicable,Juvenile,Male,Juvenile Male
+opp_452_ru.wav,1.842860391,4.844982234,3.002121843,0.048828125,292.7001953,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_746_ru1.wav,1.712229499,4.288573221,2.576343722,0.561523438,292.1630859,rumble,Separation,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_865_ru1.wav,2.08243193,6.483361874,4.400929944,9.765625,292.1142578,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_881_ru1.wav,0.719855115,8.891907603,8.172052488,0.5859375,291.5527344,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_789_ru2.wav,0.771833462,2.473113917,1.701280455,0.659179688,291.4550781,rumble,Separation,Unknown,Sub-Adult,Male,Sub-Adult Male
+opp_341_ru1.wav,1.290014214,2.514741401,1.224727187,7.641601563,291.3330078,rumble,Competition,Unknown,Sub-Adult,Male,Sub-Adult Male
+opp_598_ru1.wav,0.01179594,3.602002922,3.590206982,0.512695313,290.7958984,rumble,Competition,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_403_ru2.wav,0.590070035,3.754669538,3.164599503,7.763671875,290.7226563,rumble,Nursing,Not Applicable,Juvenile,Female,Juvenile Female
+opp_665_ru.wav,2.473471683,9.338764428,6.865292745,2.05078125,290.4052734,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_608_ru1.wav,1.902999904,5.262665654,3.35966575,0.170898438,290.3564453,rumble,Separation,Distress,Sub-Adult,Female,Sub-Adult Female
+opp_432_ru6.wav,0.007036887,3.640743214,3.633706327,0.1953125,289.9902344,rumble,Separation,Distress,Unknown,Female,Unknown
+opp_616_ru1.wav,1.585544361,3.015332723,1.429788362,10.76660156,289.1113281,rumble,Separation,Distress,Juvenile,Unknown,Unknown
+opp_401_ru2.wav,0.006343945,1.81394189,1.807597945,3.759765625,289.0869141,rumble,Competition,Unknown,Juvenile,Female,Juvenile Female
+opp_728_ru.wav,1.478988062,3.631033663,2.152045601,0.09765625,288.7939453,rumble,Competition,Distress,Adult,Male,Adult Male
+opp_819_ru.wav,1.374567431,2.743189286,1.368621855,5.151367188,288.4765625,rumble,Competition,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_716_ru.wav,2.030409695,5.031173539,3.000763844,1,288.28125,rumble,Competition,No distress,Adult,Male,Adult Male
+opp_771_ru.wav,1.301534582,3.727224765,2.425690183,0.09765625,288.1103516,rumble,Separation,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_876_ru2.wav,1.628045885,4.00936982,2.381323935,0.463867188,287.9394531,rumble,Separation,Distress,Juvenile,Male,Juvenile Male
+opp_870_ru2.wav,1.611489016,3.623043645,2.011554629,3.80859375,287.4511719,rumble,Separation,No distress,Juvenile,Female,Juvenile Female
+opp_830_ru4.wav,0.453665166,3.308006537,2.854341371,1,287.0361328,rumble,Separation,No distress,Juvenile,Female,Juvenile Female
+opp_403_ru3.wav,2.065006315,4.363826731,2.298820416,10.42480469,285.7666016,rumble,Nursing,Not Applicable,Juvenile,Female,Juvenile Female
+opp_467_ru1.wav,2.115777578,7.166032262,5.050254684,0.952148438,285.3515625,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_717_ru1.wav,2.49537444,5.299801551,2.804427111,0.390625,284.4482422,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_364_ru.wav,1.535215495,3.456862751,1.921647256,0.122070313,283.9111328,rumble,Separation,Distress,Unknown,Unknown,Unknown
+opp_398_ru.wav,1.771428028,3.078583908,1.30715588,0.09765625,283.0322266,rumble,Nursing,Not Applicable,Unknown,Unknown,Unknown
+opp_697_ru.wav,2.58212238,3.786624487,1.204502107,0.48828125,282.7880859,rumble,Competition,No distress,Juvenile,Male,Juvenile Male
+opp_515_ru.wav,2.310812577,6.860620887,4.54980831,1.611328125,282.5195313,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_608_ru3.wav,2.095647022,4.064721623,1.969074601,2.5390625,282.1533203,rumble,Separation,Distress,Sub-Adult,Female,Sub-Adult Female
+opp_528_ru.wav,4.12003309,9.309531995,5.189498905,0.317382813,281.9824219,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_591_ru1.wav,2.608160124,4.074751295,1.466591171,13.40332031,281.9824219,rumble,Unknown,No distress,Unknown,Unknown,Unknown
+opp_582_ru2.wav,0.982378074,2.585192262,1.602814188,1.318359375,281.8115234,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_519_ru.wav,1.55633929,2.281134267,0.724794977,0.341796875,281.640625,rumble,Affiliation,Not Applicable,Juvenile,Male,Juvenile Male
+opp_623_ru1.wav,1.785679715,7.299436858,5.513757143,0.78125,280.2734375,rumble,Sexual,Not Applicable,Adult,Male,Adult Male
+opp_743_ru1.wav,2.461804782,4.344771612,1.88296683,12.84179688,278.5888672,rumble,Competition,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_620_ru2.wav,1.791614501,9.711407869,7.919793368,0.48828125,277.2949219,rumble,Logistics,Not Applicable,Adult,Female,Adult Female
+opp_717_ru.wav,1.237358956,3.969415586,2.73205663,18.57910156,277.2705078,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_498_ru3.wav,1.312261603,2.526946102,1.214684499,3.857421875,276.7822266,rumble,Competition,No distress,Adult,Female,Adult Female
+opp_606_ru.wav,1.672924348,4.905044134,3.232119786,0.634765625,276.1474609,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_649_ru.wav,1.512920981,2.484471771,0.97155079,20.09277344,275.8544922,rumble,Competition,Unknown,Juvenile,Female,Juvenile Female
+opp_413_ru.wav,1.825444892,5.380282363,3.554837471,0.854492188,275.8056641,rumble,Competition,Unknown,Juvenile,Male,Juvenile Male
+opp_761_ru.wav,4.85209322,18.5306747,13.67858148,0.561523438,274.8535156,rumble,Unknown,Unknown,Unknown,Unknown,Unknown
+opp_616_ru3.wav,2.11712505,3.726383481,1.609258431,3.466796875,274.6337891,rumble,Separation,Distress,Juvenile,Unknown,Unknown
+opp_417_ru1.wav,0.011996141,3.887012366,3.875016225,4.223632813,273.9746094,rumble,Unknown,Not Applicable,Adult,Female,Adult Female
+opp_822_ru.wav,3.910627788,8.658938952,4.748311164,0.439453125,273.1445313,rumble,Affiliation,Not Applicable,Juvenile,Female,Juvenile Female
+opp_564_ru.wav,1.434394577,4.740300183,3.305905606,0.146484375,272.65625,rumble,Sexual,Not Applicable,Unknown,Unknown,Unknown
+opp_637_ru.wav,1.579172954,4.658826723,3.079653769,5.17578125,270.9716797,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_830_ru2.wav,2.527234711,3.48725537,0.960020659,0.805664063,270.6542969,rumble,Separation,No distress,Juvenile,Female,Juvenile Female
+opp_582_ru.wav,1.070742747,4.524357306,3.453614559,1.318359375,269.4824219,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_543_ru.wav,2.00224588,4.65206367,2.64981779,0.073242188,269.1650391,rumble,Unknown,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_641_ru.wav,2.535195373,7.698916092,5.163720719,0.5859375,267.3583984,rumble,Separation,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_491_ru.wav,1.680005016,5.026044758,3.346039742,4.028320313,267.0898438,rumble,Separation,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_341_ru2.wav,1.279681772,2.460312195,1.180630423,8.740234375,266.8701172,rumble,Competition,Unknown,Sub-Adult,Male,Sub-Adult Male
+opp_652_ru.wav,1.955418741,4.230201502,2.274782761,1.46484375,266.3085938,rumble,Competition,No distress,Juvenile,Male,Juvenile Male
+opp_616_ru2.wav,2.000806662,3.661897258,1.661090596,0.29296875,266.2841797,rumble,Separation,Distress,Juvenile,Unknown,Unknown
+opp_566_ru.wav,2.277101438,6.278560058,4.00145862,0.708007813,265.9423828,rumble,Logistics,Not Applicable,Adult,Female,Adult Female
+opp_511_ru2.wav,1.555470028,3.557414612,2.001944584,1.123046875,265.4541016,rumble,Separation,Distress,Juvenile,Unknown,Unknown
+opp_530_ru1.wav,0.010308164,5.05601919,5.045711026,0.756835938,264.6484375,rumble,Separation,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_368_ru.wav,0.844167724,6.263522721,5.419354997,0.610351563,264.2822266,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_604_ru.wav,1.821335796,6.230554428,4.409218632,1.098632813,264.0136719,rumble,Separation,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_807_ru1.wav,2.097100569,3.575333997,1.478233428,1.07421875,261.4257813,rumble,Competition,No distress,Juvenile,Male,Juvenile Male
+opp_486_ru.wav,2.310184511,6.197695191,3.88751068,0.927734375,260.7421875,rumble,Separation,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_700_ru.wav,2.392014591,6.6450008,4.252986209,0.1953125,260.4980469,rumble,Separation,Unknown,Adult,Female,Adult Female
+opp_582_ru6.wav,2.255408896,4.648094275,2.392685379,1.733398438,259.8876953,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_498_ru1.wav,3.018952576,8.193159058,5.174206482,0.634765625,259.4970703,rumble,Competition,No distress,Adult,Female,Adult Female
+opp_402_ru.wav,1.053527051,5.003078556,3.949551505,3.466796875,259.4238281,rumble,Separation,Unknown,Juvenile,Male,Juvenile Male
+opp_432_ru8.wav,2.591972721,8.549742498,5.957769777,1.66015625,258.4716797,rumble,Separation,Distress,Unknown,Female,Unknown
+opp_548_ru.wav,2.197329641,5.182464247,2.985134606,2.563476563,257.0068359,rumble,Competition,No distress,Adult,Female,Adult Female
+opp_349_ru.wav,2.2573195,3.600050664,1.342731164,1,256.7871094,rumble,Competition,Unknown,Unknown,Unknown,Unknown
+opp_558_ru1.wav,1.693116392,3.375636061,1.682519669,0.341796875,256.5917969,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_852_ru2.wav,1.820063743,3.564535082,1.744471339,1.782226563,256.4941406,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_401_ru1.wav,2.207584072,3.566182859,1.358598787,1.318359375,256.3476563,rumble,Competition,Unknown,Juvenile,Female,Juvenile Female
+opp_865_ru3.wav,1.847473708,4.255411371,2.407937663,0.903320313,256.25,rumble,Affiliation,Not Applicable,Unknown,Unknown,Unknown
+opp_450_ru.wav,3.704542351,7.491766601,3.78722425,5.590820313,256.1279297,rumble,Unknown,Unknown,Adult,Female,Adult Female
+opp_608_ru2.wav,1.443712482,3.413343108,1.969630626,0.341796875,256.0546875,rumble,Separation,Distress,Sub-Adult,Female,Sub-Adult Female
+opp_763_ru.wav,1.477539291,5.2053401,3.727800809,0.537109375,255.2001953,rumble,Affiliation,Not Applicable,Sub-Adult,Male,Sub-Adult Male
+opp_624_ru.wav,2.033801622,5.083981661,3.050180039,4.077148438,254.8828125,rumble,Unknown,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_386_ru.wav,2.301506214,5.99654928,3.695043066,1,254.5898438,rumble,Separation,Unknown,Juvenile,Male,Juvenile Male
+opp_608_ru.wav,2.173180143,4.510435176,2.337255033,10.546875,254.3212891,rumble,Separation,Distress,Sub-Adult,Female,Sub-Adult Female
+opp_570_ru2.wav,0.868382496,2.975917797,2.107535301,0.5859375,253.9794922,rumble,Competition,Unknown,Unknown,Unknown,Unknown
+opp_702_ru.wav,1.745211644,7.505556351,5.760344707,1.3671875,253.90625,rumble,Separation,Unknown,Unknown,Female,Unknown
+opp_816_ru.wav,1.994748171,4.111191561,2.11644339,16.62597656,253.0029297,rumble,Competition,No distress,Juvenile,Male,Juvenile Male
+opp_699_ru.wav,2.80341934,7.325176421,4.521757081,0.537109375,252.7587891,rumble,Separation,Unknown,Adult,Female,Adult Female
+opp_343_ru.wav,2.423701279,7.050296035,4.626594756,1.831054688,252.6123047,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_743_ru.wav,1.165444599,2.976244965,1.810800366,1.245117188,252.5146484,rumble,Competition,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_809_ru.wav,1.646617216,6.57523532,4.928618104,2.34375,251.8066406,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_363_ru.wav,3.217153149,8.099442758,4.882289609,10.05859375,251.4404297,rumble,Separation,No distress,Adult,Female,Adult Female
+opp_872_ru3.wav,2.273275297,6.867079284,4.593803987,0.634765625,251.3183594,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_618_ru.wav,1.448746568,5.363753024,3.915006456,1.7578125,250.5371094,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_374_ru.wav,2.065460847,3.977388204,1.911927357,0.830078125,250.1953125,rumble,Unknown,Unknown,Unknown,Unknown,Unknown
+opp_456_ru.wav,0.03841193,4.16790754,4.12949561,1,250.1953125,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_531_ru.wav,0.769208958,3.541359922,2.772150964,0.708007813,250.1708984,rumble,Competition,Distress,Adult,Female,Adult Female
+opp_608_ru4.wav,1.634504855,4.804428193,3.169923338,0.09765625,249.7314453,rumble,Separation,Distress,Sub-Adult,Female,Sub-Adult Female
+opp_402_ru1.wav,1.00636956,4.194322931,3.187953371,4.760742188,249.3408203,rumble,Separation,Unknown,Juvenile,Male,Juvenile Male
+opp_835_ru.wav,2.43570148,7.493032874,5.057331394,3.784179688,249.2431641,rumble,Logistics,Not Applicable,Adult,Female,Adult Female
+opp_471_ru1.wav,0.010800507,4.482261359,4.471460852,0.708007813,248.8037109,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_881_ru.wav,2.392540434,5.149196202,2.756655768,0.463867188,248.6083984,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_382_ru.wav,1.543213188,4.80074736,3.257534172,29.4921875,247.65625,rumble,Separation,No distress,Juvenile,Male,Juvenile Male
+opp_837_ru.wav,2.922512904,10.57540947,7.652896566,0.29296875,247.4609375,rumble,Affiliation,Not Applicable,Sub-Adult,Male,Sub-Adult Male
+opp_413_ru2.wav,1.164335732,2.86919274,1.704857008,0.5859375,247.3876953,rumble,Competition,Unknown,Juvenile,Male,Juvenile Male
+opp_432_ru2.wav,2.178414823,6.739900862,4.561486039,1,247.265625,rumble,Separation,Distress,Juvenile,Male,Juvenile Male
+opp_749_ru.wav,1.398097529,6.459673802,5.061576273,0.756835938,247.1679688,rumble,Nursing,Not Applicable,Sub-Adult,Male,Sub-Adult Male
+opp_736_ru.wav,2.532637785,4.010130655,1.47749287,0.341796875,247.0458984,rumble,Competition,Distress,Unknown,Unknown,Unknown
+opp_504_ru5.wav,2.007705836,5.312260184,3.304554348,28.78417969,245.7275391,rumble,Separation,Unknown,Infant,Unknown,Unknown
+opp_620_ru1.wav,0.385843894,5.868409081,5.482565187,3.393554688,245.5078125,rumble,Logistics,Not Applicable,Adult,Female,Adult Female
+opp_878_ru.wav,3.575788258,8.12207275,4.546284492,1.391601563,244.5068359,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_782_ru.wav,2.698901813,8.224876501,5.525974688,2.294921875,243.3349609,rumble,Competition,Unknown,Adult,Female,Adult Female
+opp_848_ru.wav,1.033431326,3.587624668,2.554193342,12.3046875,243.3349609,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_801_ru.wav,2.780551461,7.628608558,4.848057097,0.244140625,242.578125,rumble,Unknown,Not Applicable,Adult,Female,Adult Female
+opp_634_ru.wav,2.229392452,2.876228831,0.646836379,7.32421875,242.5292969,rumble,Competition,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_432_rua.wav,3.94365254,5.275942206,1.332289666,9.057617188,241.9677734,rumble,Separation,Distress,Juvenile,Male,Juvenile Male
+opp_810_ru.wav,1.910352134,5.68105742,3.770705286,2.880859375,239.4042969,rumble,Logistics,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_363_ru1.wav,4.418846967,8.00449401,3.585647043,2.661132813,238.1591797,rumble,Separation,No distress,Adult,Female,Adult Female
+opp_758_ru4.wav,2.492472137,7.290628721,4.798156584,6.030273438,237.5488281,rumble,Separation,No distress,Adult,Female,Adult Female
+opp_668_ru.wav,1.456672215,3.275306292,1.818634077,0.68359375,237.4511719,rumble,Competition,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_508_ru1.wav,2.80519289,5.376776656,2.571583766,0.439453125,237.2802734,rumble,Separation,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_556_ru.wav,1.673712415,4.347936421,2.674224006,3.930664063,236.4501953,rumble,Competition,No distress,Adult,Female,Adult Female
+opp_581_ru1.wav,1.295847507,3.468924962,2.173077455,0.78125,236.2304688,rumble,Competition,No distress,Unknown,Male,Unknown
+opp_623_ru.wav,2.917394696,7.729532103,4.812137407,7.739257813,235.6689453,rumble,Sexual,Not Applicable,Adult,Male,Adult Male
+opp_872_ru4.wav,1.49091256,6.096777953,4.605865393,4.418945313,234.6923828,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_789_ru.wav,0.852877464,4.022612541,3.169735077,0.927734375,234.1308594,rumble,Separation,Unknown,Sub-Adult,Male,Sub-Adult Male
+opp_701_ru.wav,0.027829535,5.54751629,5.519686755,1,233.8867188,rumble,Separation,Unknown,Adult,Female,Adult Female
+opp_833_ru1.wav,3.895084295,8.478466374,4.583382079,1.440429688,233.8378906,rumble,Separation,No distress,Sub-Adult,Female,Sub-Adult Female
+opp_561_ru.wav,1.5782217,6.328743677,4.750521977,0.512695313,233.3251953,rumble,Sexual,Not Applicable,Unknown,Unknown,Unknown
+opp_748_ru.wav,2.154568381,3.625073006,1.470504625,0.732421875,233.2519531,rumble,Nursing,Not Applicable,Sub-Adult,Male,Sub-Adult Male
+opp_817_ru.wav,1.488236676,7.072236854,5.584000178,0.219726563,233.0566406,rumble,Unknown,Unknown,Sub-Adult,Male,Sub-Adult Male
+opp_627_ru.wav,1.312154537,2.062793357,0.75063882,0.219726563,233.0078125,rumble,Sexual,Not Applicable,Adult,Male,Adult Male
+opp_439_ru.wav,1.954324601,5.069963211,3.11563861,0.756835938,232.3486328,rumble,Separation,No distress,Adult,Female,Adult Female
+opp_543_ru1.wav,1.485155288,3.127321117,1.642165829,0.634765625,232.1044922,rumble,Unknown,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_509_ru1.wav,1.102833022,3.53628007,2.433447048,1,231.3964844,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_830_ru1.wav,1.360423769,2.70965684,1.349233071,2.416992188,231.0791016,rumble,Separation,No distress,Juvenile,Female,Juvenile Female
+opp_824_ru5.wav,1.610378323,5.489318044,3.878939721,1,230.6640625,rumble,Unknown,Unknown,Adult,Female,Adult Female
+opp_582_ru4.wav,1.573163739,4.070431531,2.497267792,0.170898438,230.5419922,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_350_ru.wav,1.810101454,4.526299217,2.716197763,0.1953125,230.2490234,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_853_ru.wav,1.944679408,4.179023003,2.234343595,5.590820313,230.2246094,rumble,Competition,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_698_ru.wav,3.773084052,7.793122239,4.020038187,2.514648438,228.8574219,rumble,Separation,Unknown,Adult,Female,Adult Female
+opp_763_ru2.wav,1.295959747,3.061606224,1.765646477,15.13671875,227.9052734,rumble,Affiliation,Not Applicable,Sub-Adult,Male,Sub-Adult Male
+opp_432_ru5.wav,1.321438213,3.964763599,2.643325386,6.567382813,227.3193359,rumble,Separation,Distress,Unknown,Female,Unknown
+opp_504_ru4.wav,1.701993696,4.802341008,3.100347312,0.366210938,225.7324219,rumble,Separation,Unknown,Infant,Unknown,Unknown
+opp_778_ru.wav,1.754260909,6.263782024,4.509521115,1.26953125,224.4140625,rumble,Separation,Unknown,Adult,Female,Adult Female
+opp_432_ru3.wav,1.090387921,5.90389919,4.813511269,0.122070313,223.6816406,rumble,Separation,Distress,Unknown,Female,Unknown
+opp_710_ru2.wav,2.788415303,9.038640308,6.250225005,0.68359375,223.046875,rumble,Separation,No distress,Adult,Female,Adult Female
+opp_509_ru6.wav,3.485034976,5.261033,1.775998024,0.1953125,222.8759766,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_843_ru.wav,4.147216515,9.163886902,5.016670387,14.37988281,221.484375,rumble,Separation,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_531_ru1.wav,1.837007198,4.918348945,3.081341747,0.805664063,220.1416016,rumble,Competition,Distress,Adult,Female,Adult Female
+opp_809_ru1.wav,0.725893587,7.050876724,6.324983137,0.09765625,220.0195313,rumble,Separation,Unknown,Adult,Female,Adult Female
+opp_824_ru2.wav,2.84516354,7.969916486,5.124752946,1.147460938,219.8486328,rumble,Separation,Unknown,Adult,Female,Adult Female
+opp_739_ru.wav,1.829167896,5.060485966,3.23131807,1,218.6035156,rumble,Competition,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_833_ru2.wav,2.615150895,7.988314401,5.373163506,0.09765625,218.5546875,rumble,Separation,No distress,Adult,Female,Adult Female
+opp_499_ru3.wav,0.961700453,4.020294905,3.058594452,0.439453125,217.9199219,rumble,Competition,Unknown,Juvenile,Male,Juvenile Male
+opp_543_ru2.wav,1.568819814,2.59140128,1.022581466,0.634765625,217.9199219,rumble,Unknown,No distress,Sub-Adult,Male,Sub-Adult Male
+opp_774_ru.wav,3.92263654,7.618219956,3.695583416,0.268554688,216.6748047,rumble,Logistics,Not Applicable,Adult,Female,Adult Female
+opp_654_ru.wav,2.151468481,5.564386112,3.412917631,0.219726563,215.5273438,rumble,Unknown,No distress,Adult,Female,Adult Female
+opp_571_ru.wav,4.201619523,8.070516761,3.868897238,9.033203125,214.9414063,rumble,Competition,Unknown,Adult,Female,Adult Female
+opp_509_ru.wav,5.340828745,12.2263282,6.885499455,0.146484375,214.84375,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_775_ru.wav,2.510726221,7.333746405,4.823020184,0.390625,214.3554688,rumble,Separation,Unknown,Adult,Female,Adult Female
+opp_779_ru.wav,2.257365907,5.949608827,3.69224292,0.317382813,214.3554688,rumble,Separation,Unknown,Adult,Female,Adult Female
+opp_449_ru.wav,2.154783937,6.987069526,4.832285589,1.928710938,213.4033203,rumble,Unknown,Unknown,Adult,Female,Adult Female
+opp_754_ru2.wav,2.080964287,4.51111777,2.430153483,0.244140625,212.9882813,rumble,Unknown,Unknown,Unknown,Unknown,Unknown
+opp_767_ru.wav,3.141043791,6.498813598,3.357769807,4.248046875,211.328125,rumble,Anti-Predator,Not Applicable,Unknown,Unknown,Unknown
+opp_517_ru.wav,2.299477996,8.335413957,6.035935961,0.146484375,210.5957031,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_620_ru3.wav,1.824158557,7.376827307,5.55266875,0.268554688,209.8876953,rumble,Logistics,Not Applicable,Adult,Female,Adult Female
+opp_804_ru.wav,1.26789224,5.990523261,4.722631021,1,208.5449219,rumble,Logistics,Not Applicable,Adult,Female,Adult Female
+opp_432_ru7.wav,0.910466503,4.566988185,3.656521682,1.171875,207.7392578,rumble,Separation,Distress,Unknown,Female,Unknown
+opp_625_ru.wav,0.011367279,5.373204481,5.361837202,0.268554688,205.2978516,rumble,Affiliation,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_509_ru5.wav,1.977287619,4.898523073,2.921235454,1.5625,205.0537109,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_629_ru.wav,2.252392883,4.247636902,1.995244019,0.805664063,201.953125,rumble,Separation,Distress,Sub-Adult,Female,Sub-Adult Female
+opp_712_ru.wav,1.8229357,6.075201085,4.252265385,0.78125,201.9287109,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_770_ru.wav,1.917565345,6.820691185,4.90312584,3.051757813,200.6835938,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_645_ru.wav,1.203891952,2.048481571,0.844589619,9.155273438,199.0966797,rumble,Nursing,Not Applicable,Juvenile,Unknown,Unknown
+opp_334_ru.wav,1.011815187,3.077924001,2.066108814,1,197.8271484,rumble,Unknown,Unknown,Adult,Female,Adult Female
+opp_332_ru.wav,2.229881611,5.75206721,3.522185599,1.635742188,197.6318359,rumble,Logistics,Not Applicable,Adult,Female,Adult Female
+opp_333_ru.wav,3.098900929,6.639744627,3.540843698,0.756835938,197.1679688,rumble,Unknown,Not Applicable,Adult,Female,Adult Female
+opp_347_ru.wav,1.954280421,6.442795376,4.488514955,1.245117188,196.6796875,rumble,Anti-Predator,Not Applicable,Adult,Female,Adult Female
+opp_338_ru.wav,2.752764095,8.363083309,5.610319214,1.953125,194.7998047,rumble,Separation,No distress,Adult,Female,Adult Female
+opp_542_ru.wav,1.298787238,6.722559792,5.423772554,0.830078125,194.4091797,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_662_ru.wav,1.678372363,4.922787995,3.244415632,6.103515625,190.625,rumble,Unknown,No distress,Adult,Female,Adult Female
+opp_518_ru.wav,2.114584527,5.732830001,3.618245474,0.146484375,189.1357422,rumble,Separation,Unknown,Adult,Female,Adult Female
+opp_562_ru.wav,1.227514081,6.062288451,4.83477437,11.10839844,188.4033203,rumble,Unknown,Not Applicable,Adult,Female,Adult Female
+opp_432_ru4.wav,1.423068691,6.658359741,5.23529105,0.219726563,186.1816406,rumble,Separation,Distress,Unknown,Female,Unknown
+opp_868_ru.wav,0.748512273,6.212484148,5.463971875,0.634765625,185.8398438,rumble,Separation,Unknown,Adult,Female,Adult Female
+opp_509_ru3.wav,2.346730949,4.347134025,2.000403076,8.032226563,183.2519531,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_744_ru.wav,4.918669651,5.621388608,0.702718957,0.048828125,182.2021484,rumble,Competition,No distress,Adult,Male,Adult Male
+opp_509_ru4.wav,3.353490563,6.777841544,3.424350981,0.68359375,181.7626953,rumble,Separation,Unknown,Sub-Adult,Female,Sub-Adult Female
+opp_793_ru.wav,0.039207918,1.61834673,1.579138812,1.196289063,178.6621094,rumble,Competition,Unknown,Juvenile,Male,Juvenile Male
+opp_669_ru.wav,1.119718764,4.740538593,3.620819829,4.39453125,176.5869141,rumble,Logistics,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_499_ru.wav,1.253005283,2.445240202,1.192234919,0.390625,176.2695313,rumble,Competition,Unknown,Juvenile,Male,Juvenile Male
+opp_557_ru.wav,1.455639767,4.746402533,3.290762766,0.512695313,172.4609375,rumble,Affiliation,Not Applicable,Adult,Female,Adult Female
+opp_806_ru.wav,1.832923574,6.163735047,4.330811473,0.512695313,168.6523438,rumble,Separation,Unknown,Adult,Female,Adult Female
+opp_346_ru.wav,0.794322843,6.482650903,5.68832806,0.5859375,168.1640625,rumble,Separation,Distress,Adult,Female,Adult Female
+opp_669_ru1.wav,2.830313144,4.420829495,1.590516351,0.048828125,163.9404297,rumble,Logistics,Not Applicable,Sub-Adult,Female,Sub-Adult Female
+opp_755_ru2.wav,1.031032894,1.726944395,0.695911501,23.60839844,140.1123047,rumble,Competition,Unknown,Juvenile,Male,Juvenile Male
+opp_495_ru.wav,1.136561521,3.769333965,2.632772444,2.612304688,136.5234375,rumble,Competition,Unknown,Adult,Female,Adult Female
+opp_424_ru.wav,2.302418462,7.350744838,5.048326376,0.927734375,96.80175781,rumble,Competition,No distress,Adult,Female,Adult Female
